@@ -38,3 +38,10 @@ Retirement planning is the main financial goal for most investors.
 Short-term investors expect moderate returns.
 
 Dashboard Preview:
+
+
+[![Dashboard Preview](dashbordSS.png)]
+
+## Dashboard Demo Video
+
+[Click here to watch the demo](fianance_.mp4)
